@@ -1,7 +1,8 @@
 # Supermarket-sales
 # Table of contents
-* [Problem Statement](#Problem-Statement)
 * [Project Overview](#Project-Overview)
+* [Problem Statement](#Problem-Statement)
+
 
 # Project Overview
 This project involved analyzing supermarket sales data to gain insights into customer behavior, product performance, and revenue trends. I processed the dataset to ensure accuracy and zero null values, and uncovered patterns and relationships within the data. The final analysis focuses on the key issues impacting sales, providing actionable insights for decision making.
