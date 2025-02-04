@@ -1,4 +1,4 @@
-# Supermarket-sales
+## Supermarket-sales
 # Table of contents
 * [Project Overview](#Project-Overview)
 * [Problem Statement](#Problem-Statement)
